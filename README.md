@@ -16,7 +16,7 @@ Simply update the [content.md](https://github.com/SailfishOS-Meetup-Berlin/sailf
 - Copy the text from [content.md](https://github.com/SailfishOS-Meetup-Berlin/sailfishos-meetup-berlin/blob/master/content.md) and push the publish button
 - Check the [published website](http://sailfishos-meetup-berlin.github.io/sailfishos-meetup-berlin/) if everything is as expected
 
-# Use jekyllinstead of the automaticpage creator
+# Use jekyll instead of the automatic page creator
 
 - Why? Page creator overwrites everything that is not part of the markdown code pasted. E.g. it's not possible to change the [download button](https://github.com/SailfishOS-Meetup-Berlin/sailfishos-meetup-berlin/blob/master/index.html#L17) on top of the generated page.
 

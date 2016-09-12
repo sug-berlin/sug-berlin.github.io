@@ -13,7 +13,7 @@ Simply update the [content.md](https://github.com/SailfishOS-Meetup-Berlin/sailf
 ## Publishing
 
 - Go to the [automatic page generator](https://github.com/SailfishOS-Meetup-Berlin/sailfishos-meetup-berlin/generated_pages/new?utf8=%E2%9C%93) within the setting dialog of the Sailfish Meetup Berlin repository page
-- Edit the text and push the publish button
+- Copy the text from [content.md](https://github.com/SailfishOS-Meetup-Berlin/sailfishos-meetup-berlin/blob/master/content.md) and push the publish button
 - Check the [published website](http://sailfishos-meetup-berlin.github.io/sailfishos-meetup-berlin/) if everything is as expected
 
 ## Contributing

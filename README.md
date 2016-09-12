@@ -16,6 +16,14 @@ Simply update the [content.md](https://github.com/SailfishOS-Meetup-Berlin/sailf
 - Copy the text from [content.md](https://github.com/SailfishOS-Meetup-Berlin/sailfishos-meetup-berlin/blob/master/content.md) and push the publish button
 - Check the [published website](http://sailfishos-meetup-berlin.github.io/sailfishos-meetup-berlin/) if everything is as expected
 
-## Contributing
+# Use jekyllinstead of the automaticpage creator
+
+- Why? Page creator overwrites everything that is not part of the markdown code pasted. E.g. it's not possible to change the [download button](https://github.com/SailfishOS-Meetup-Berlin/sailfishos-meetup-berlin/blob/master/index.html#L17) on top of the generated page.
+
+## Install jekyll
+
+Follow the [installation description](https://jekyllrb.com/docs/installation/). It might be necessary to install the dev package as well (e.g. in Ubuntu 16.04: `sudo apt-get install ruby3.3-dev`). Afterwards jekyll could be installed (e.g. in Ubuntu 16.04: `sudo gem install jekyll`).
+
+# Contributing
 
 We are always looking for ideas, findings and people who would like to join our meetups or projects. If you would like to add content to the page just create a pull request for your version of the [content.md](https://github.com/SailfishOS-Meetup-Berlin/sailfishos-meetup-berlin/blob/master/content.md) or open an [issue](https://github.com/SailfishOS-Meetup-Berlin/sailfishos-meetup-berlin/issues).

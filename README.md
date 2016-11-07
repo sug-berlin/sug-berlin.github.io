@@ -22,7 +22,7 @@ this description is based on [this description](https://help.github.com/articles
 You could simply use the github website to do the following steps. 
 
 1. Create a file in the [_posts directory](https://github.com/sug-berlin/sug-berlin.github.io/tree/master/_posts): (naming scheme: `yyyy-mm-dd-blogpost-title.md`)
-  - Find a template for blogposts here
+  - Find a [template for blogposts here](https://github.com/sug-berlin/sug-berlin.github.io/blob/master/template-new-post.md)
 2. If you do nothave write access to the repository create a pull request. Otherwise just save the new file in the _post directory.
 
 The updated page now is available at the [SailfishOS User Group Berlin Website](https://sug-berlin.github.io) and will provide a link to the blogpost you created in the *Posts* section.

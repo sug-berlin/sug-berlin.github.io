@@ -1,22 +1,44 @@
 # SailfishOS Meetup Berlin
 
-Tis repository contains the [SailfishOS User Group Berlin website](https://sug-berlin.github.io).
+Tis repository contains the [SailfishOS User Group Berlin website](https://sug-berlin.github.io). The page is generated using [Jekyll](https://jekyllrb.com).
+
+## Installation and preparation
+
+The following needs to be done in order to create a testable, local running version of the page: 
+
+1. Clone this repository: `git clone git@github.com:sug-berlin/sug-berlin.github.io.git`
+2. Switch to cloned working directory: `cd sug-berlin`
+3. Install Jekyll and other dependencies from the GitHub pages gem: `bundler install`
+4. (Optional) Serve page locally: `bundler exec jekyll serve`
+
+this description is based on [this description](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
 
 ## Update and publish the page
 
-This page is generated using [Jekyll](https://jekyllrb.com). In order to update the page you need to do te following.
 
-- One time steps:
-  - Clone this repository
-  - Optional: In order to test and serve the pages locally using Jekyll follow [this description](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
-- Stepts to be performed for every update:
-  - Creating a new blogpost article from the template (naming scheme: `yyyy-mm-dd-blogpost-title.md`)
-  - (optional) local testing: `bundeler exec jekyll serve`
-  - commit changes (blogpost)
-  - push
-  
- The updated content should be visible now at the [SailfishOS User Group Berlin website](https://sug-berlin.github.io).
+### Blogpost
 
-# Contributing
+You could simply use the github website to do the following steps. 
 
-We are always looking for ideas, findings and people who would like to join our meetups or projects. If you would like to add content to the page just follow the description obove and create a pull request or open an [issue](https://github.com/SailfishOS-Meetup-Berlin/sailfishos-meetup-berlin.github.io/issues).
+1. Create a file in the [_posts directory](https://github.com/sug-berlin/sug-berlin.github.io/tree/master/_posts): (naming scheme: `yyyy-mm-dd-blogpost-title.md`)
+  - Find a template for blogposts here
+2. If you do nothave write access to the repository create a pull request. Otherwise just save the new file in the _post directory.
+
+The updated page now is available at the [SailfishOS User Group Berlin Website](https://sug-berlin.github.io) and will provide a link to the blogpost you created in the *Posts* section.
+
+### Main Page
+
+The *Main Page* is the root page shown to everyone visiting https://sug-berlin.github.io
+
+- to be continued...
+
+### Pages
+
+It is possible to create Sub Pages for several topics in order to include and link them. This section describes how to create these kind of pages.
+
+- to be continued...
+
+## Contributing
+
+We are always looking for ideas, findings and people who would like to join our meetups or projects. If you would like to add content to the page just follow the description obove and create a pull request or open an [issue](https://github.com/sug-berlin/sug-berlin.github.io/issues).

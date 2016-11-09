@@ -1,2 +1,7 @@
 # backup files
 *~
+
+# Jekyll related
+# Do not include _site
+# See https://stackoverflow.com/a/31871892/3752157
+_site/

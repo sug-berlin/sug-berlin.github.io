@@ -22,6 +22,10 @@ url: "https://sug-berlin.github.io" # the base hostname & protocol for your site
 twitter_username: SailfishOSBln
 github_username:  sug-berlin
 
+## Added by jukey according to
+# https://github.com/jekyll/jekyll/issues/920#issuecomment-63093764
+include: ['_pages']
+
 # Build settings
 markdown: kramdown
 theme: minima

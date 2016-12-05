@@ -7,7 +7,7 @@ Tis repository contains the [SailfishOS User Group Berlin website](https://sug-b
 The following needs to be done in order to create a testable, local running version of the page: 
 
 1. Clone this repository: `git clone git@github.com:sug-berlin/sug-berlin.github.io.git`
-2. Switch to cloned working directory: `cd sug-berlin`
+2. Switch to cloned working directory: `cd sug-berlin.github.io`
 3. Install Jekyll and other dependencies from the GitHub pages gem: `bundler install`
 4. (Optional) Serve page locally: `bundler exec jekyll serve`
 

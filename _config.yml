@@ -25,6 +25,7 @@ github_username:  sug-berlin
 ## Added by jukey according to
 # https://github.com/jekyll/jekyll/issues/920#issuecomment-63093764
 include: ['_pages']
+exclude: ['_pages']
 
 # Build settings
 markdown: kramdown

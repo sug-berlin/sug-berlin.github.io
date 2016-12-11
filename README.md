@@ -22,10 +22,10 @@ this description is based on [this description](https://help.github.com/articles
 You could simply use the github website to do the following steps. 
 
 1. Create a file in the [_posts directory](https://github.com/sug-berlin/sug-berlin.github.io/tree/master/_posts): (naming scheme: `yyyy-mm-dd-blogpost-title.md`)
-  - Find a [template for blogposts here](https://github.com/sug-berlin/sug-berlin.github.io/blob/master/template-new-post.md)
+  - Find a [template for blogposts here](https://github.com/sug-berlin/sug-berlin.github.io/blob/master/templates/template-new-post.md)
 2. If you do nothave write access to the repository create a pull request. Otherwise just save the new file in the _post directory.
 
-The updated page now is available at the [SailfishOS User Group Berlin Website](https://sug-berlin.github.io) and will provide a link to the blogpost you created in the *Posts* section.
+The updated post now is available at the [SailfishOS User Group Berlin Website](https://sug-berlin.github.io) and will provide a link to the blogpost you created in the *Posts* section.
 
 ### Main Page
 
@@ -37,7 +37,12 @@ The *Main Page* is the root page shown to everyone visiting https://sug-berlin.g
 
 It is possible to create Sub Pages for several topics in order to include and link them. This section describes how to create these kind of pages.
 
-- to be continued...
+
+1. Create a file in the [_pages directory](https://github.com/sug-berlin/sug-berlin.github.io/tree/master/_pages): (naming scheme: `page-title.md`)
+  - Find a [template for blogposts here](https://github.com/sug-berlin/sug-berlin.github.io/blob/master/templates/template-new-page.md)
+2. If you do nothave write access to the repository create a pull request. Otherwise just save the new file in the _pages directory.
+
+The updated page now is available at the [SailfishOS User Group Berlin Website](https://sug-berlin.github.io) and will provide a link to the page you created in the header of the page.
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Telegram Group
+title: Telegram Groups
 permalink: /sug-berlin-telegram/
 ---
 Currently communication happens mostly in Telegram. There are native Telegram 

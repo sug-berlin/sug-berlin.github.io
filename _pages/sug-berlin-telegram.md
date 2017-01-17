@@ -12,3 +12,6 @@ Currently there are two groups (currently most discussions in German):
 - [SailfishOS USer Group Berlin](https://t.me/joinchat/AAAAAAY9irVflCDgpnUD-Q) - discussions related to the monthly meetups in Berlin
 - [German SailfishOS Community](https://telegram.me/joinchat/CCMYXQnxqdq5v1lue-5aBQ) - Everything SailfishOS reated
 
+In addition there is a Group that is used to share information only:
+
+- [SailfisOS News Network](https://t.me/sailfishosnewsnetwork) - read only

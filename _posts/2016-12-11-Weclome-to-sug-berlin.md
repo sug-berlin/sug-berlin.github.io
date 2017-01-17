@@ -19,5 +19,5 @@ In our regular meetings every first Monday of a week you get the opportunity to 
 - [Fairphone 2](https://en.wikipedia.org/wiki/Fairphone_2) running SailfishOS
 - more mobile phones running Sailfish OS
 
-In order to stay tuned follow us on [Twitter](https://twiter.com/SailfishOSBln) or consider to join the [Telegram Group](https://sug-berlin.github.io/sug-berlin-telegram/).
+In order to stay tuned follow us on [Twitter](https://twiter.com/SailfishOSBln) or consider to join one of the [Telegram Groups](https://sug-berlin.github.io/sug-berlin-telegram/).
 

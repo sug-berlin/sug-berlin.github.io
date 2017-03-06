@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awesome Applications for SailfishOS
+title: Awesome Applications
 permalink: /applications/
 ---
 
